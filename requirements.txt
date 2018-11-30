@@ -4,3 +4,4 @@ nbinteract
 pandas
 matplotlib
 ipywidgets
+jupyter_dashboards
