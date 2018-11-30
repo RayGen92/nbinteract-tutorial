@@ -2,6 +2,6 @@ numpy
 ipywidgets
 nbinteract
 pandas
-matplotlib.pyplot
+matplotlib
 ipywidgets
 random
