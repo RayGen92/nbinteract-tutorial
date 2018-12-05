@@ -6,3 +6,4 @@ matplotlib
 ipywidgets
 jupyter_dashboards
 jupyter_dashboards_bundlers
+termcolor
